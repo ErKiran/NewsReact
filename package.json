@@ -1,0 +1,23 @@
+{
+  "name": "newsreact",
+  "version": "1.0.0",
+  "description": "News App Built with React,Redux and Friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErKiran/NewsReact.git"
+  },
+  "keywords": [
+    "News",
+    "React"
+  ],
+  "author": "Kiran Adhikari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErKiran/NewsReact/issues"
+  },
+  "homepage": "https://github.com/ErKiran/NewsReact#readme"
+}
